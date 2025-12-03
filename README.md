@@ -1,0 +1,1 @@
+Here is my collection of code for Advent of Code 2025. Most of the code will be done in R however in some of the directories you may find a .rs file that contains Rust code (taking from my projects main.rs). I've been working on getting stronger with rust and this is an opportunity to do that.
